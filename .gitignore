@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.env
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Models (large files)
+backend/models/*.pkl
+backend/backend/models/*.pkl
+
+# Large datasets (>25MB, download separately - see README)
+datasets/creditcard.csv
+datasets/phishing_email.csv
+datasets/CEAS_08.csv
+datasets/Enron.csv
+datasets/fake_job_postings.csv
