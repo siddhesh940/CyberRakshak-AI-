@@ -2,6 +2,8 @@
 
 **AI-Powered Social Media Scam Detection Platform**
 
+🌐 **Live Demo:** [https://cyber-rakshak-ai.vercel.app](https://cyber-rakshak-ai.vercel.app)
+
 CyberRakshak AI is a full-stack cybersecurity platform that leverages machine learning and NLP to detect and classify online scams, phishing URLs, fake job postings, and financial fraud in real time. Built with a **FastAPI** backend and a **Next.js** frontend, it provides an intuitive interface for users to scan suspicious content and receive instant, explainable AI-driven threat assessments.
 
 ---
